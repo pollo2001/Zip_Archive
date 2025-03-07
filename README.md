@@ -72,11 +72,8 @@ extract(): Extracts a file from the archive.
 remove(): Removes a file from the archive.
 list(): Lists all files in the archive.
 compact(): Removes empty blocks and shrinks the archive.
-Usage Example 💻
-cpp
-Copy
-Edit
 
+Usage Example 💻
 // Example of creating an archive, adding files, and extracting them
 auto archive = Archive::createArchive("my_archive.arc");
 archive.add("file1.txt", nullptr);
