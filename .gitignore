@@ -1,0 +1,21 @@
+# Ignore compiled object files, binaries, and libraries
+*.o
+*.a
+*.so
+*.out
+*.exe
+
+# Ignore debug and log files
+*.log
+*.dSYM/
+
+# Ignore any IDE or OS-specific files (you can add these if you're using a specific IDE)
+.vscode/
+.idea/
+*.swp
+
+# Ignore Mac-specific files (like .DS_Store)
+.DS_Store
+
+# Ignore temporary files from certain compilers or tools
+*.tmp
