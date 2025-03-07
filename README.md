@@ -1,4 +1,4 @@
-# **ECE141 Archive Project** 🎉
+# **Zip Archive Project** 🎉
 
 ## **Overview** 🎬
 The **Archive Project** is designed to implement and manage custom archive files in C++. This project allows for creating, opening, adding, extracting, removing, and listing files in a custom archive format (with a `.arc` extension). Additionally, the project includes a file compression and chunking mechanism to store data efficiently.
